@@ -10,3 +10,4 @@
 . ./install-openssh.sh
 . ./install-ssh.sh
 . ./install-mosh.sh
+. ./install-uv.sh
