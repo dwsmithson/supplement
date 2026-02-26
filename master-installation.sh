@@ -12,3 +12,4 @@
 . ./install-mosh.sh
 . ./install-uv.sh
 . ./install-jq.sh
+. ./install-xxd
