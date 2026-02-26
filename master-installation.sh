@@ -11,3 +11,4 @@
 . ./install-ssh.sh
 . ./install-mosh.sh
 . ./install-uv.sh
+. ./install-jq.sh
